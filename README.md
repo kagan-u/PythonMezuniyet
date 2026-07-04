@@ -1,2 +1,2 @@
 # PythonMezuniyet
-Python Pro Mezuniyet 
+Python Pro Mezuniyet
